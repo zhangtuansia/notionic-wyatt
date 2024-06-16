@@ -30,7 +30,7 @@ const BLOG = {
   defaultCover: '/cover.jpg',
   socialLink: {
     twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
+    github: '',
     telegram: 'https://t.me/zuolan'
   },
   seo: {
